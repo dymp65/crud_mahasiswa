@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">CRUD Mahasiswa</string>
     <string-array name="gender_array">
-        <item>Male</item>
-        <item>Female</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
     </string-array>
 </resources>
